@@ -1,0 +1,35 @@
+
+.bi{
+	background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2563.jpg);
+}
+.df{
+display: flex;
+
+}
+.tac{
+text-align: center;
+}
+.m30{
+	margin: 30px;
+}
+.h50{
+height: 50px;
+}
+.w150{
+	width: 150px;
+}
+.br10{
+	border-radius: 10px;
+}
+.two{
+	display: flex;
+}
+.h300{
+	height: 300px;
+}
+.w300{
+	width: 300px;
+}
+.m5{
+	margin: 5px;
+}
